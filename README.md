@@ -1,3 +1,4 @@
+![Airline Social Media](airline-social-media.jpg)
 # Airline Social Media Engagement Analysis
 
 ## Project Overview
